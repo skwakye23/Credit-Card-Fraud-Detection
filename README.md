@@ -14,10 +14,16 @@ It contains only numerical input variables which are the result of a PCA transfo
 
 
 #REQUIRED PACKAGES :
+
                       pandas==1.0.5
+                      
                       numpy==1.18.5
+                      
                       matplotlib==3.2.2
-                      Python == 
+                      
+                      MYSQL == 8.0
+                      
+                      Python == 3.72
   
   
  #DATA SOURCE :
