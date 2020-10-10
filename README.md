@@ -35,9 +35,13 @@ References:
 
     Good blog article on different methods handling class imbalance: https://www.svds.com/learning-imbalanced-classes/
     A Survey of Predictive Modelling under Imbalanced Distributions: https://arxiv.org/pdf/1505.01658.pdf
-    Short blog post about scikit-learn RandomForestClassifier balanced mode: https://chrisalbon.com/machine_learning/trees_and_forests/handle_imbalanced_classes_in_random_forests/
-    The mechanism of doing the weighted node-split in the tree in scikit learn: https://github.com/scikit-learn/scikit-learn/blob/70f170dedf2927c2d805144425522459d92700a7/sklearn/tree/_criterion.pyx#L635
-    Paper that introduces "Weighted Random Forests" as a method to deal with class imbalance: https://statistics.berkeley.edu/sites/default/files/tech-reports/666.pdf
-    This paper frames the concepts around "cost sensitive learning" , i.e., minizing cost rather than just misclassification loss: https://cling.csd.uwo.ca/papers/cost_sensitive.pdf
+    Short blog post about scikit-learn RandomForestClassifier balanced mode:
+    https://chrisalbon.com/machine_learning/trees_and_forests/handle_imbalanced_classes_in_random_forests/
+    The mechanism of doing the weighted node-split in the tree in scikit learn:
+    https://github.com/scikit-learn/scikit-learn/blob/70f170dedf2927c2d805144425522459d92700a7/sklearn/tree/_criterion.pyx#L635
+    Paper that introduces "Weighted Random Forests" as a method to deal with class imbalance: 
+    https://statistics.berkeley.edu/sites/default/files/tech-reports/666.pdf
+    This paper frames the concepts around "cost sensitive learning" , i.e., minizing cost 
+    rather than just misclassification loss: https://cling.csd.uwo.ca/papers/cost_sensitive.pdf
 
 
